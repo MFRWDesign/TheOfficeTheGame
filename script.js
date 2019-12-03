@@ -34,7 +34,16 @@ let qArray = [
     correctAnswer: 1,
     image: "url(kevinchili.jpg)",
     fontSize: "30px"
-    },
+	},
+	{
+	aQuestion:"Where do Holly's parents live?",
+	bName1: "Boulder, CO",
+	bNAme2: "Omaha, NE",
+	bName3: "Detroit, MI",
+	correctAnswer: 1,
+	image: "url(holly.gif)",
+	fontSize: "30px"
+	},
     {
     aQuestion:"What name did Pam and Angela fight over for the name of their boys?",
     bName1: "William",
