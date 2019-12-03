@@ -52,7 +52,16 @@ let qArray = [
     correctAnswer: 3,
     image: "url(angelapam.jpg)",
     fontSize: "30px"
-    },
+	},
+	{
+	aQuestion:'How much does the telescope cost that Dwight trades Jim for his "miracle legumes"?',
+	bName1: "$200",
+	bNAme2: "$100",
+	bName3: "$150",
+	correctAnswer: 3,
+	image: "url(dwightbeans.jpg)",
+	fontSize: "30px"
+	},
     {
     aQuestion:"Who is the check made out to during the Michael Scott Fun Run for the Cure?",
     bName1: "Rabies",
